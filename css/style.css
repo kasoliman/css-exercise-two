@@ -1,6 +1,32 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
+
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+figcaption {
+  color: #808080;
+}
+
+p {
+  font-size: 100%;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+  color: #4253fc;
+  font-weight: 900;
 }
 
 nav {
@@ -40,6 +66,7 @@ ul {
 li {
   float: right;
   padding: 30px;
+  text-decoration: none;
 }
 
 article {
